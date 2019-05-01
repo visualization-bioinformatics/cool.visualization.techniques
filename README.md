@@ -16,3 +16,8 @@ Divergent national-scale trends of microbial and animal biodiversity revealed ac
 Step by step tutorial
 
 https://github.com/anazalea/pySankey
+
+#Nice box plots
+
+https://cmdlinetips.com/2019/03/catplot-in-seaborn-python/
+
